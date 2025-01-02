@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm another software engineer...
+
+- I hate NullPointerExceptions.
+- I love the feeling when all the tests pass successfully.
+- Lately, I've been exploring the Cloud and decided to continue this new journey.
+
+I work with:
+- Java (almost daily)
+- Python (for automation)
+- Go (just for fun)
+
 
 <!--
 **NullPointerFound/NullPointerFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
